@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(54, 51, 51);
+}
+ 
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-family: sans-serif;
+
+
+}
+
+p{
+    text-align: center;
+    color: rgb(233, 170, 34);
+
+}
+
+h2{
+    text-align: left;
+    color: rgb(233, 170, 34);
+    text-decoration: underline;
+}
+
+
+
+.skills{
+    color: rgb(233, 118, 250);
+    line-height: 30px;
+}
+
+
+#perfil{
+    border-radius: 50px;
+}
+
+.blogs{
+    color: white;
+    font: 200;
+    line-height: 30px
+
+}
